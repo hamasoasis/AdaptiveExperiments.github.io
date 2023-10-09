@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 32 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/404.html</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/about/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/agenda/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/blog/archive/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/atom.xml</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/bootcamps/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/code-of-conduct/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/contact/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/curriculum/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/feed.xml</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/humans.txt</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/blog/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/learner-profiles/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/overview/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/participate/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/robots.txt</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/search/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/sitemap.xml</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/team/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/training-links/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/training-material/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/workshop22/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/workshops/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/blog/page2/</loc>
+	
+		<lastmod>2023-10-05T13:22:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+
+<!-- Posts: 7 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/announcement/announcing-bootcamp23/</loc>
+	
+		<lastmod>2023-03-10T00:00:00-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/announcement/intersect-RSE-workshop/</loc>
+	
+		<lastmod>2022-08-19T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/announcement/intersect-overview-video/</loc>
+	
+		<lastmod>2021-11-13T00:00:00-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/announcement/intersect-SIAM-poster/</loc>
+	
+		<lastmod>2021-02-28T00:00:00-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/announcement/intersect-at-sc20/</loc>
+	
+		<lastmod>2020-09-30T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/announcement/intersect-on-github/</loc>
+	
+		<lastmod>2020-08-17T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/EASI/announcement/intersect-awarded/</loc>
+	
+		<lastmod>2020-08-15T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
+</urlset>
