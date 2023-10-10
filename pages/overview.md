@@ -1,41 +1,28 @@
 ---
 layout: page
 title: "Overview"
-subheadline: "INTERSECT Project Summary"
+subheadline:
 header:
 permalink: "/overview/"
 ---
 
-## INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT)
+## Experiments-As-a-Service-Infrastructure (EASI)
 
-The breadth and sophistication of software skills required to develop modern research software projects are increasing at an unprecedented pace.
-Undergraduate and graduate education is often insufficient at preparing graduate students for the task of developing high-performing, sustainable research software.
-The best, most cohesive software-related training efforts are targeted at novice users.
-Researchers often try to “run before they can walk” [^1], and as such, members of the research software community have focused significant effort on providing an on-ramp to programming and research computing.
-Software Carpentry (http://software-carpentry.org), for example, excels at introducing basic programming and computing skills to researchers.
-However, beyond this introductory level, training becomes more patchwork and piecemeal with institutions and organizations across the United States attempting to address the need on their own.
-A recent survey of U.S. postdoctoral researchers found that 95% of respondents use research software [^2].
-Of those that use research software 66% stated they could not continue their research without it.
-Despite this reliance, over half (54%) of the respondents who were using this software had received no training.
+Instructional decisions about digital educational resources can impact thousands, from practice problems
+in K12 to tutorial webpages in university and community college. The current versions of resources are
+arguably too infrequently tested against alternatives, in order to use data about learning to choose the
+best. 
 
-![Results of Survey of US National Postdoctoral Association Regarding Software Use and Training
-in Research. Results exclude the 5% of respondents who reported they did not use research software]({{ site.urlimg }}software-survey.png)
+We aim to make it easier to get evidence from randomized field experiments that compare
+alternative instructional approaches, to identify which versions quantifiably impact learning outcomes. For
+example, experiments have identified methods for making students so motivated that they score half a
+letter grade higher, by identifying how and when to prompt students to reflect on a course's personal
+relevance (Hulleman & Harackiewicz, 2009)[^1]. 
 
-There exists a need to train researchers at later stages of their career in more advanced topics to not only make them more productive, but to make the software they create more sustainable.
-Or, to continue the analogy, once they know how to walk, they need to learn how to *run*.
+We propose the Experiments-As-a-Service-Infrastructure
+(EASI) to enable a collaborative ecosystem of experimentation in real-world educational settings. EASI
+aims to lower the barriers for designing, deploying, analyzing and adapting educational field experiments .
 
-Therefore, to address this knowledge and skill gap, we are introducing INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT), which will bring software development and engineering training to intermediate and advanced developers of research software.
-INTERSECT will provide expert-led training courses and workshops focused on building a pipeline of computational researchers trained in best practices for research software development.
-This training will enable these computational researchers to produce better software while simultaneously preparing a subset with the skill set required to enter in the increasingly valued role of a Research Software Engineer.
-INTERSECT will leverage the instructors best suited for providing this intermediate and advanced training, professional Research Software Engineers.
 
-To achieve this goal, INTERSECT will bring together RSE instructors from multiple institutions within the U.S. to maximally exploit the capabilities, knowledge, expertise of a growing RSE community.
-INTERSECT will sponsor a newly-created multi-day bootcamp targeting intermediate and advanced students from U.S. institutions.
-The project will curate the material used in the INTERSECT workshops and training sessions while working with existing frameworks to provide an open-source platform that will allow for continued engagement with the training material and help coordinate the effort across the RSE-trainer community.  
-In addition, INTERSECT will sponsor annual RSE-trainer workshops, focused on the curation and communal generation of training material.
-These workshops will connect RSE practitioner-instructors from across the country to not only leverage the knowledge of multiple institutions but also to build and strengthen the community of this group of software professionals.
+[^1]: Hulleman, C. S., & Harackiewicz, J. M. (2009). Promoting interest and performance in high school science classes. Science, 326(5958), 1410-1412.
 
-[^1]: G Wilson. Software carpentry: lessons learned. F1000Research, 3(62), 2016.
-
-[^2]: U. Nangia and  D.S. Katz. Track 1 Paper: Surveying the US National Postdoctoral Association Regarding Software Use and Training in Research.
-     In Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1), 2017.
