@@ -7,7 +7,7 @@ permalink: "/contact/"
 ---
 
 ### Participation
-For participation opportunities please fill out the google form [here](https://forms.gle/E4jxC8fzBEyimqYX9).
+Coming soon....
 
 ### Questions
-Please contact [Ian Cosden](mailto:icosden@princeton.edu) and/or [Jeff Carver](mailto:carver@cs.ua.edu).
+Please contact [Jeff Carver](mailto:carver@cs.ua.edu).
