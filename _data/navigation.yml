@@ -10,17 +10,17 @@
      url: "/overview/"
    - title: "Team"
      url: "/team/"
-   - title: "A/B Testing"
-     url: "/abtesting/"
+   - title: "Adaptive Experiment"
+     url: "/adaptive/"
 
 - title: "Conferences & Events"
   url: "/"
   side: left
   dropdown:
     - title: "SIPS Workshop"
-      url: "/workshop/"
-    - title: "Call"
-      url: "/call/"
+      url: "/workshops/"
+    - title: "Participate"
+      url: "/participate/"
    
 
 - title: "Documentation"
@@ -42,9 +42,9 @@
     - title: "A/B Testing"
       url: "/mooclet/"
     - title: "Contextual Exp"
-      url: "/context/"
+      url: "/mooclet/"
     - title: "Non-Contextual"
-      url: "/noncontext/"
+      url: "/mooclet/"
 
 - title: "Contact"
   url: "/contact/"

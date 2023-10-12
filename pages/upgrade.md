@@ -1,10 +1,10 @@
 ---
 layout: page
 show_meta: false
-title: "SIP Workshops"
+title: "UpGrade"
 #subheadline: "Developing the adaptive experiment templates for the researchers"
 teaser: ""
 header:
-permalink: "/workshops/"
+permalink: "/upgrade/"
 ---
 ## This page is coming soon ....
