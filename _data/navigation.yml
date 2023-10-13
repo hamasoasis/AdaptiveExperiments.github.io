@@ -1,0 +1,51 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "About"
+  url: "/about/"
+  side: left
+  dropdown:
+   - title: "Project Overview"
+     url: "/overview/"
+   - title: "Team"
+     url: "/team/"
+   - title: "Adaptive Experiment"
+     url: "/adaptive/"
+
+- title: "Conferences & Events"
+  url: "/"
+  side: left
+  dropdown:
+    - title: "SIPS Workshop"
+      url: "/workshops/"
+    - title: "Participate"
+      url: "/participate/"
+   
+
+- title: "Documentation"
+  url: "/"
+  side: left
+  dropdown:
+    - title: "MOOClet"
+      url: "/mooclet/"
+    - title: "UpGrade"
+      url: "/upgrade/"
+    - title: "OLI"
+      url: "/oli/"
+
+
+- title: Experiment
+  url: "/overview/"
+  side: left
+  dropdown:
+    - title: "A/B Testing"
+      url: "/mooclet/"
+    - title: "Contextual Exp"
+      url: "/mooclet/"
+    - title: "Non-Contextual"
+      url: "/mooclet/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
