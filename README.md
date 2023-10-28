@@ -68,7 +68,7 @@ This project is supported by National Science Foundation awards [2209821](https:
 ![](https://i.imgur.com/9qujX6H.png)
 
 
-### Contacts
+### Contact
 Jeffrey Carver, University of Alabama
 
 

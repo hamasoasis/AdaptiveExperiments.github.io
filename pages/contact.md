@@ -7,7 +7,7 @@ permalink: "/contact/"
 ---
 
 ### Participation
-Coming soon....
+Coming soon....!
 
 ### Questions
 Please contact [Jeff Carver](mailto:carver@cs.ua.edu).

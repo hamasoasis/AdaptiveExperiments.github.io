@@ -36,7 +36,7 @@
 
 
 - title: Experiment
-  url: "/research/"
+  url: "/overview/"
   side: left
   dropdown:
     - title: "A/B Testing"
