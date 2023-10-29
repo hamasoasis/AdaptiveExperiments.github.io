@@ -159,14 +159,6 @@
 
           
           
-            
-            
-              <li class="divider"></li>
-              <li><a  href="http://localhost:4000/EASI/contact/">Contact</a></li>
-
-            
-            
-          
         
         
       </ul>
@@ -331,6 +323,15 @@
               
 
           
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/EASI/contact/">Contact</a></li>
+              <li class="divider"></li>
+
+            
+            
           
         
         
