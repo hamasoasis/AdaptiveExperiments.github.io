@@ -31,7 +31,7 @@ author: Carver
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://AdaptiveExperiments.github.io'
+url: 'https://adaptiveexperiments.github.io'
 baseurl:
 
 
@@ -45,7 +45,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://AdaptiveExperiments.github.io/images/'
+urlimg: 'https://adaptiveexperiments.github.io/images/'
 
 
 # Logo size is 600x80 pixels

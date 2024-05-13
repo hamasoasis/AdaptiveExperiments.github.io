@@ -2,15 +2,16 @@
 layout: page-fullwidth
 show_meta: false
 #title: "MOOClet"
-#subheadline: "Developing the adaptive experiment templates for the researchers"
-teaser: ""
+subheadline: "Developing the adaptive experiment templates for the researchers"
+#teaser: ""
 header:
-  image_fullwidth: easi-logo.png
 permalink: "/mooclet/"
 ---
-# The MOOClet/AdapComp Framework
+
+
+## The MOOClet/AdapComp Framework
 [![Watch the video](https://img.youtube.com/vi/_PrBCaOE4QE/default.jpg)](https://www.youtube.com/watch?v=_PrBCaOE4QE)
-[Watch the video (7:02 mins)](https://www.youtube.com/watch?v=_PrBCaOE4QE/default.jpg)
+[Watch the video (7:02 mins)](https://www.youtube.com/watch?v=_PrBCaOE4QE)
 
 An AdapComp (short for "Adaptive Component," also known as a MOOClet) is a digital component – like an explanation in an online course or a problem – designed using the AdapComp technology. This technology enables instructors and researchers to engage in a wide range of A/B experimentation, crowdsourcing, real-time data analysis, and personalization.
 
