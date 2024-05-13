@@ -2,7 +2,7 @@ REPO_ID=$(curl https://api.github.com/repos/${CIRCLE_PROJECT_USERNAME}/${CIRCLE_
 echo "Repo ID is ${REPO_ID}"
 
 URL=https://output.circle-artifacts.com/output/job/${CIRCLE_WORKFLOW_JOB_ID}/artifacts/${CIRCLE_NODE_INDEX}
-BASEURL=/adaptiveexperiments.github.io/
+BASEURL=/adaptiveexperiments.github.io
 IMGURL=${URL}${BASEURL}/images/
 
 echo "URL is ${URL}"
