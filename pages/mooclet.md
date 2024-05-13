@@ -2,12 +2,14 @@
 layout: page-fullwidth
 show_meta: false
 #title: "MOOClet"
-#subheadline: "Developing the adaptive experiment templates for the researchers"
+subheadline: "Developing the adaptive experiment templates for the researchers"
 #teaser: ""
 header:
 permalink: "/mooclet/"
 ---
-# The MOOClet/AdapComp Framework
+
+
+## The MOOClet/AdapComp Framework
 [![Watch the video](https://img.youtube.com/vi/_PrBCaOE4QE/default.jpg)](https://www.youtube.com/watch?v=_PrBCaOE4QE)
 [Watch the video (7:02 mins)](https://www.youtube.com/watch?v=_PrBCaOE4QE)
 
