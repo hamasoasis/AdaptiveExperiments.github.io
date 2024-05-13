@@ -9,9 +9,8 @@ header:
 permalink: "/mooclet/"
 ---
 # The MOOClet/AdapComp Framework
-
 [![Watch the video](https://img.youtube.com/vi/_PrBCaOE4QE/default.jpg)](https://www.youtube.com/watch?v=_PrBCaOE4QE)
-[Watch the video (7:02 mins)](https://www.youtube.com/watch?v=_PrBCaOE4QE)
+[Watch the video (7:02 mins)](https://www.youtube.com/watch?v=_PrBCaOE4QE/default.jpg)
 
 An AdapComp (short for "Adaptive Component," also known as a MOOClet) is a digital component – like an explanation in an online course or a problem – designed using the AdapComp technology. This technology enables instructors and researchers to engage in a wide range of A/B experimentation, crowdsourcing, real-time data analysis, and personalization.
 
@@ -44,10 +43,3 @@ The formal definition: A digital resource component (e.g., lesson/problem) is an
 
 ## Relevant Publication
 Reza, M., Kim, J., Bhattacharjee, A., Rafferty, A.N. and Williams, J. J. (2021). [The MOOClet Framework: Unifying Experimentation, Dynamic Improvement, and Personalization in Online Courses](https://dl.acm.org/doi/10.1145/3430895.3460128). In Proceedings of the Eighth ACM Conference on Learning @ Scale (L@S '21). Association for Computing Machinery, New York, NY, USA, 15–26. DOI: https://doi.org/10.1145/3430895.3460128
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/_PrBCaOE4QE" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
