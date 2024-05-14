@@ -6,8 +6,8 @@
 #
 layout: frontpage
 header:
-  #image_fullwidth: gallery-example-1.jpg
-  image_fullwidth: easi-logo.png
+  image_fullwidth: gallery-example-1.jpg
+  #image_fullwidth: banner.png
 widget1:
   title: "EASI Workshops"
   url: /workshops
