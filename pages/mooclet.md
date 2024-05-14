@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-show_meta: false
-#title: "MOOClet"
-subheadline: "The MOOClet/AdapComp Framework"
+show_meta: "EASI"
+title: "The MOOClet/AdapComp Framework"
+#subheadline: "The MOOClet/AdapComp Framework"
 #teaser: ""
-header: 
+#header: 
 permalink: "/mooclet/"
 ---
 [![Watch the video](https://img.youtube.com/vi/_PrBCaOE4QE/default.jpg)](https://www.youtube.com/watch?v=_PrBCaOE4QE)
