@@ -16,6 +16,13 @@ install: &install
   name: install dependencies for build
   command: |
      $HOME/conda/bin/pip install -r ~/repo/.circleci/requirements.txt
+
+test_jobs: &test_jobs
+  name: test the jobs metadata
+  command: |
+     cd ~/repo/tests
+     $HOME/conda/bin/python -m unittest test_jobs
+
 install_python_3: &install_python_3
   name: install Python 3.5 dependencies
   command: |
@@ -73,6 +80,7 @@ jobs:
           key: rubygems-v1
           paths:
             - vendor/bundle
+      - run: *test_jobs
       - run: *build_jekyll
       - store_artifacts:
           path: ~/repo/_site
